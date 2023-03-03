@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/</loc>
+    <loc>https://loonanchauvette.github.io/articles/</loc>
   </url><url>
-    <loc>/articles/</loc>
+    <loc>https://loonanchauvette.github.io/categories/</loc>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://loonanchauvette.github.io/contact/</loc>
   </url><url>
-    <loc>/contact/</loc>
+    <loc>https://loonanchauvette.github.io/</loc>
   </url><url>
-    <loc>/projects/math-brain-trainer/</loc>
+    <loc>https://loonanchauvette.github.io/projects/math-brain-trainer/</loc>
   </url><url>
-    <loc>/projects/</loc>
+    <loc>https://loonanchauvette.github.io/projects/</loc>
   </url><url>
-    <loc>/articles/article/</loc>
+    <loc>https://loonanchauvette.github.io/articles/article/</loc>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://loonanchauvette.github.io/tags/</loc>
   </url>
 </urlset>
