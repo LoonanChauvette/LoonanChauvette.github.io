@@ -28,6 +28,10 @@
                 href="https://loonanchauvette.github.io/contact/"
                 />
   </url><url>
+    <loc>https://loonanchauvette.github.io/publications/articles/test/</loc>
+  </url><url>
+    <loc>https://loonanchauvette.github.io/publications/articles/testpub/</loc>
+  </url><url>
     <loc>https://loonanchauvette.github.io/</loc>
     <xhtml:link
                 rel="alternate"
@@ -44,6 +48,18 @@
   </url><url>
     <loc>https://loonanchauvette.github.io/projects/</loc>
   </url><url>
+    <loc>https://loonanchauvette.github.io/publications/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://loonanchauvette.github.io/fr/publications/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://loonanchauvette.github.io/publications/"
+                />
+  </url><url>
     <loc>https://loonanchauvette.github.io/articles/article/</loc>
   </url><url>
     <loc>https://loonanchauvette.github.io/tags/</loc>
@@ -57,5 +73,7 @@
                 hreflang="en"
                 href="https://loonanchauvette.github.io/tags/"
                 />
+  </url><url>
+    <loc>https://loonanchauvette.github.io/publications/other/othertest/</loc>
   </url>
 </urlset>

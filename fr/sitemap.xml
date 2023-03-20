@@ -38,6 +38,18 @@
                 href="https://loonanchauvette.github.io/fr/"
                 />
   </url><url>
+    <loc>https://loonanchauvette.github.io/fr/publications/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://loonanchauvette.github.io/publications/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://loonanchauvette.github.io/fr/publications/"
+                />
+  </url><url>
     <loc>https://loonanchauvette.github.io/fr/tags/</loc>
     <xhtml:link
                 rel="alternate"
