@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Loonan Chauvette</title>
-    <link>https://loonanchauvette.github.io/fr/</link>
-    <description>Recent content on Loonan Chauvette</description>
+    <title>Affiches on Loonan Chauvette</title>
+    <link>https://loonanchauvette.github.io/fr/publications/posters/</link>
+    <description>Recent content in Affiches on Loonan Chauvette</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 23 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://loonanchauvette.github.io/fr/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://loonanchauvette.github.io/fr/publications/posters/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Gant vibrotactile multicanaux</title>
       <link>https://loonanchauvette.github.io/fr/publications/posters/multichannelglove/</link>

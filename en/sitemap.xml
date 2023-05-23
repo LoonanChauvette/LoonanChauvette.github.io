@@ -16,6 +16,8 @@
   </url><url>
     <loc>https://loonanchauvette.github.io/article/</loc>
   </url><url>
+    <loc>https://loonanchauvette.github.io/articles/</loc>
+  </url><url>
     <loc>https://loonanchauvette.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -54,7 +56,29 @@
   </url><url>
     <loc>https://loonanchauvette.github.io/projects/math-brain-trainer/</loc>
   </url><url>
-    <loc>https://loonanchauvette.github.io/publications/other/</loc>
+    <loc>https://loonanchauvette.github.io/publications/posters/multichannelglove/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://loonanchauvette.github.io/fr/publications/posters/multichannelglove/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://loonanchauvette.github.io/publications/posters/multichannelglove/"
+                />
+  </url><url>
+    <loc>https://loonanchauvette.github.io/publications/posters/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://loonanchauvette.github.io/fr/publications/posters/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://loonanchauvette.github.io/publications/posters/"
+                />
   </url><url>
     <loc>https://loonanchauvette.github.io/projects/</loc>
   </url><url>
@@ -72,6 +96,8 @@
   </url><url>
     <loc>https://loonanchauvette.github.io/article/article/</loc>
   </url><url>
+    <loc>https://loonanchauvette.github.io/articles/article/</loc>
+  </url><url>
     <loc>https://loonanchauvette.github.io/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -83,7 +109,5 @@
                 hreflang="en"
                 href="https://loonanchauvette.github.io/tags/"
                 />
-  </url><url>
-    <loc>https://loonanchauvette.github.io/publications/other/othertest/</loc>
   </url>
 </urlset>

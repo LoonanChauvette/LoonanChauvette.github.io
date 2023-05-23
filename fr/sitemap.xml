@@ -2,6 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://loonanchauvette.github.io/fr/publications/posters/</loc>
+    <lastmod>2023-05-23T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://loonanchauvette.github.io/publications/posters/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://loonanchauvette.github.io/fr/publications/posters/"
+                />
+  </url><url>
+    <loc>https://loonanchauvette.github.io/fr/publications/posters/multichannelglove/</loc>
+    <lastmod>2023-05-23T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://loonanchauvette.github.io/publications/posters/multichannelglove/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://loonanchauvette.github.io/fr/publications/posters/multichannelglove/"
+                />
+  </url><url>
+    <loc>https://loonanchauvette.github.io/fr/</loc>
+    <lastmod>2023-05-23T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://loonanchauvette.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://loonanchauvette.github.io/fr/"
+                />
+  </url><url>
+    <loc>https://loonanchauvette.github.io/fr/publications/</loc>
+    <lastmod>2023-05-23T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://loonanchauvette.github.io/publications/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://loonanchauvette.github.io/fr/publications/"
+                />
+  </url><url>
     <loc>https://loonanchauvette.github.io/fr/publications/articles/</loc>
     <xhtml:link
                 rel="alternate"
@@ -36,30 +88,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://loonanchauvette.github.io/fr/contact/"
-                />
-  </url><url>
-    <loc>https://loonanchauvette.github.io/fr/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://loonanchauvette.github.io/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://loonanchauvette.github.io/fr/"
-                />
-  </url><url>
-    <loc>https://loonanchauvette.github.io/fr/publications/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://loonanchauvette.github.io/publications/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://loonanchauvette.github.io/fr/publications/"
                 />
   </url><url>
     <loc>https://loonanchauvette.github.io/fr/tags/</loc>
