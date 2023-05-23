@@ -2,7 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://loonanchauvette.github.io/articles/</loc>
+    <loc>https://loonanchauvette.github.io/publications/articles/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://loonanchauvette.github.io/fr/publications/articles/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://loonanchauvette.github.io/publications/articles/"
+                />
+  </url><url>
+    <loc>https://loonanchauvette.github.io/tarticle/</loc>
   </url><url>
     <loc>https://loonanchauvette.github.io/categories/</loc>
     <xhtml:link
@@ -27,10 +39,6 @@
                 hreflang="en"
                 href="https://loonanchauvette.github.io/contact/"
                 />
-  </url><url>
-    <loc>https://loonanchauvette.github.io/publications/articles/test/</loc>
-  </url><url>
-    <loc>https://loonanchauvette.github.io/publications/articles/testpub/</loc>
   </url><url>
     <loc>https://loonanchauvette.github.io/</loc>
     <xhtml:link
@@ -60,7 +68,7 @@
                 href="https://loonanchauvette.github.io/publications/"
                 />
   </url><url>
-    <loc>https://loonanchauvette.github.io/articles/article/</loc>
+    <loc>https://loonanchauvette.github.io/tarticle/tarticle/</loc>
   </url><url>
     <loc>https://loonanchauvette.github.io/tags/</loc>
     <xhtml:link
