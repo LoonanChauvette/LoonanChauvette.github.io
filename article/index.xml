@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Articles on Loonan Chauvette</title>
+    <link>https://loonanchauvette.github.io/article/</link>
+    <description>Recent content in Articles on Loonan Chauvette</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://loonanchauvette.github.io/article/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Surprise Surprise</title>
+      <link>https://loonanchauvette.github.io/article/article/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://loonanchauvette.github.io/article/article/</guid>
+      <description>Thank you for your support! Hello. If you like this template, I&amp;rsquo;d be happy to get a coffee donation :)</description>
+    </item>
+    
+  </channel>
+</rss>

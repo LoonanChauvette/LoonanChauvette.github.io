@@ -14,7 +14,7 @@
                 href="https://loonanchauvette.github.io/publications/articles/"
                 />
   </url><url>
-    <loc>https://loonanchauvette.github.io/tarticle/</loc>
+    <loc>https://loonanchauvette.github.io/article/</loc>
   </url><url>
     <loc>https://loonanchauvette.github.io/categories/</loc>
     <xhtml:link
@@ -54,6 +54,8 @@
   </url><url>
     <loc>https://loonanchauvette.github.io/projects/math-brain-trainer/</loc>
   </url><url>
+    <loc>https://loonanchauvette.github.io/publications/other/</loc>
+  </url><url>
     <loc>https://loonanchauvette.github.io/projects/</loc>
   </url><url>
     <loc>https://loonanchauvette.github.io/publications/</loc>
@@ -68,7 +70,7 @@
                 href="https://loonanchauvette.github.io/publications/"
                 />
   </url><url>
-    <loc>https://loonanchauvette.github.io/tarticle/tarticle/</loc>
+    <loc>https://loonanchauvette.github.io/article/article/</loc>
   </url><url>
     <loc>https://loonanchauvette.github.io/tags/</loc>
     <xhtml:link
