@@ -2,6 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://loonanchauvette.github.io/</loc>
+    <lastmod>2023-05-23T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://loonanchauvette.github.io/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://loonanchauvette.github.io/"
+                />
+  </url><url>
+    <loc>https://loonanchauvette.github.io/publications/posters/multichannelglove/</loc>
+    <lastmod>2023-05-23T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://loonanchauvette.github.io/fr/publications/posters/multichannelglove/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://loonanchauvette.github.io/publications/posters/multichannelglove/"
+                />
+  </url><url>
+    <loc>https://loonanchauvette.github.io/publications/posters/</loc>
+    <lastmod>2023-05-23T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://loonanchauvette.github.io/fr/publications/posters/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://loonanchauvette.github.io/publications/posters/"
+                />
+  </url><url>
+    <loc>https://loonanchauvette.github.io/publications/</loc>
+    <lastmod>2023-05-23T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://loonanchauvette.github.io/fr/publications/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://loonanchauvette.github.io/publications/"
+                />
+  </url><url>
     <loc>https://loonanchauvette.github.io/publications/articles/</loc>
     <xhtml:link
                 rel="alternate"
@@ -38,57 +90,9 @@
                 href="https://loonanchauvette.github.io/contact/"
                 />
   </url><url>
-    <loc>https://loonanchauvette.github.io/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://loonanchauvette.github.io/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://loonanchauvette.github.io/"
-                />
-  </url><url>
     <loc>https://loonanchauvette.github.io/projects/math-brain-trainer/</loc>
   </url><url>
-    <loc>https://loonanchauvette.github.io/publications/posters/multichannelglove/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://loonanchauvette.github.io/fr/publications/posters/multichannelglove/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://loonanchauvette.github.io/publications/posters/multichannelglove/"
-                />
-  </url><url>
-    <loc>https://loonanchauvette.github.io/publications/posters/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://loonanchauvette.github.io/fr/publications/posters/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://loonanchauvette.github.io/publications/posters/"
-                />
-  </url><url>
     <loc>https://loonanchauvette.github.io/projects/</loc>
-  </url><url>
-    <loc>https://loonanchauvette.github.io/publications/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://loonanchauvette.github.io/fr/publications/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://loonanchauvette.github.io/publications/"
-                />
   </url><url>
     <loc>https://loonanchauvette.github.io/tags/</loc>
     <xhtml:link
